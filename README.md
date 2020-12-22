@@ -1,4 +1,4 @@
-![Hi there 👋](https://drive.google.com/file/d/1F7LEYlDazK4znWsm4dxf7I3EXv_q4gVX/view?usp=sharing)
+![Hi there 👋](https://res.cloudinary.com/stephenblogdata-herokuapp-com/image/upload/v1608631722/l_kxcjld.png)
 **Welcome to my GitHub page!**
 ### Visit my works and projects on my portfolio website 📫
 
