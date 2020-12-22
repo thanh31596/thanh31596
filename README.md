@@ -1,4 +1,6 @@
-### Hi there 👋
+![Hi there 👋](https://drive.google.com/file/d/1F7LEYlDazK4znWsm4dxf7I3EXv_q4gVX/view?usp=sharing)
+**Welcome to my GitHub page!**
+### Visit my works and projects on my portfolio website 📫
 
 <!--
 **thanh31596/thanh31596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
